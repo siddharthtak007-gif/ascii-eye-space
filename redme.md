@@ -40,3 +40,7 @@ Run the script:
 
 Bash
 python eye_space.py
+
+python -m pip install numpy
+
+python eye_space.py
